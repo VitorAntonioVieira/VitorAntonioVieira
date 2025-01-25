@@ -1,11 +1,10 @@
-# <p align="center"> 🎈 Olá, eu sou o Vitor! </p>
+<img src="./img/banner_github.png">
+
+# <p> 🎈 Olá, eu sou o Vitor! </p>
+
 🌍 Uso ciência e tecnologia para resolver desafios da sociedade e da indústria<br>💻 Registro da evolução de meus projetos, estudos e contribuições à comunidade<br>🤝 Acredito no trabalho em equipe, então fique à vontade para colaborar nos meus repositórios<br>🤖 FIRST® Alumn, ex-competidor e mentor da equipe Taiada Nexus
 
 [![Twitch](https://img.shields.io/badge/twitch-%236441a5.svg?style=for-the-badge&logo=twitch&logoColor=%23ffffff)](https://twitch.tv/canaluou)
-
----
-
-<img src="./img/banner_github.png">
 
 # 🏆 Experiências e conquistas:
 
