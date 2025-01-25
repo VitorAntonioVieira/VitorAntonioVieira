@@ -4,7 +4,7 @@
 
 🌍 Uso ciência e tecnologia para resolver desafios da sociedade e da indústria<br>💻 Registro da evolução de meus projetos, estudos e contribuições à comunidade<br>🤝 Acredito no trabalho em equipe, então fique à vontade para colaborar nos meus repositórios<br>🤖 FIRST® Alumn, ex-competidor e mentor da equipe Taiada Nexus
 
-[![Twitch](https://img.shields.io/badge/twitch-%236441a5.svg?style=for-the-badge&logo=twitch&logoColor=%23ffffff)](https://twitch.tv/canaluou)
+ [![Linkedin](https://img.shields.io/badge/linkedin-%230e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=%23ffffff)](https://linkedin.com/in/vitorantoniovieira) [![Twitch](https://img.shields.io/badge/twitch-%236441a5.svg?style=for-the-badge&logo=twitch&logoColor=%23ffffff)](https://twitch.tv/canaluou)
 
 # 🏆 Experiências e conquistas:
 
@@ -23,4 +23,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=VitorAntonioVieira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
+</picture>
