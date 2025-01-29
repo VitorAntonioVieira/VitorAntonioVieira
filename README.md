@@ -11,6 +11,8 @@
 # 🏆 Experiências e conquistas:
  - 3º lugar no hackathon SENAI DEV Experience (2024)
  - Medalha de Bronze - Olimpíada Brasileira de Astronomia (2024)
+ - Equipe Vencedora de Projeto de Inovação - FIRST® LEGO® League - Etapa Regional SESI-SP (2019)
+ - Equipe Finalista de Design de Robô - FIRST® LEGO® League - Etapa Regional SESI-SP (2021)
 
 <br>
 
